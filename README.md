@@ -31,3 +31,45 @@ Scalability and performance: Ensure the database can handle large music collecti
 Your Sincerely: We would happy to discuss this proposal further and answer any question you may have. Thank you for considering our proposal and we look forward to the opportunity to collaborate on this exciting project.
 
 ( Hamad Khan ) hamadkhan2553@gmail.com
+
+![Image](https://github.com/user-attachments/assets/112b2236-3c94-4bb1-a1cd-0b2aa0de157b)
+
+![Image](https://github.com/user-attachments/assets/1efd8c1c-7241-49ef-afad-5f02914d916d)
+
+![Image](https://github.com/user-attachments/assets/ea0ce656-2e9d-4e32-917c-8c48697d2ff6)
+
+![Image](https://github.com/user-attachments/assets/818ba27b-c734-4781-9da4-8e83a33f948a)
+
+![Image](https://github.com/user-attachments/assets/7a4b32e0-0886-4289-a730-217a1473bdae)
+
+![Image](https://github.com/user-attachments/assets/bb95f69c-04b7-4795-97ac-a5d00d07efe0)
+
+![Image](https://github.com/user-attachments/assets/f47885de-a9ba-476a-9945-da27afeed16d)
+
+![Image](https://github.com/user-attachments/assets/51948cd5-0e69-4210-bed7-60e88ab62aee)
+
+![Image](https://github.com/user-attachments/assets/0f3c1735-8687-459f-8ab3-3690d7981a83)
+
+![Image](https://github.com/user-attachments/assets/8cdf4135-d4b8-45c1-8d9b-0a41728bd188)
+
+![Image](https://github.com/user-attachments/assets/d04eae72-745b-44a0-95f1-7ce976e560a9)
+
+![Image](https://github.com/user-attachments/assets/65c73910-a016-4945-9688-b2baf707253a)
+
+![Image](https://github.com/user-attachments/assets/703596d9-6a77-4c3d-9e82-5f5886662590)
+
+![Image](https://github.com/user-attachments/assets/c7ed38b8-b8ae-401e-bf98-2bda05c87559)
+
+![Image](https://github.com/user-attachments/assets/730abca8-0e26-4c1d-ba08-92d1d728157c)
+
+![Image](https://github.com/user-attachments/assets/4c61ac44-6271-499e-989a-ecb68725889a)
+
+![Image](https://github.com/user-attachments/assets/83c43d9e-020f-4e6f-8915-4da5b44dd058)
+
+![Image](https://github.com/user-attachments/assets/23ea408b-d4c3-45a3-a844-392720c3fd8f)
+
+![Image](https://github.com/user-attachments/assets/ff69dba2-6593-4e36-8abc-dfb03cffb001)
+
+![Image](https://github.com/user-attachments/assets/43c7037d-6d78-4370-b808-54b8371a6eb3)
+
+![Image](https://github.com/user-attachments/assets/9ef98082-057e-49da-849e-6252b56c684d)
