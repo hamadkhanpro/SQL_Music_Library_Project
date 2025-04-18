@@ -6,7 +6,6 @@ SQL Music Library Project Objective:
 This Music Library objective typically involves managing and organizing a collection of music in a systematic way. A SQL music library's objectives include: Store and manage music metadata: Artist names, album titles, genres, lyrics, and other relevant information. Organize and structure data: Use tables and relationships to efficiently store and query data. Support user customization: Allow users to create playlists, rate songs, and add personal notes or tags. Optimize performance and scalability: Design the database to handle large music collections and high user traffic. Facilitate data import and export: Allow users to import music data from various sources and export it to other applications or formats. Offer a user-friendly interface: Provide an intuitive and visually appealing interface for users to interact with the music library. Different Categories Music: Show the different category music name with tables. By achieving these objectives, a SQL music library can become a powerful tool for music enthusiasts to manage, explore, and enjoy their music collections.
 
 Project Scope: The scope of a music library typically includes:
-
 Music information: That show Music all information some like musical name, song release date, music all cast, music business all Categories songs.
 Music genres: Classical, jazz, popular, rock, folk, world music, and other genres.
 Music types: Instrumental, vocal, choral, opera, musical theater, and film music.
