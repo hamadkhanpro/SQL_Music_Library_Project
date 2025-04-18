@@ -32,7 +32,7 @@ Your Sincerely: We would happy to discuss this proposal further and answer any q
 
 ( Hamad Khan ) hamadkhan2553@gmail.com
 
-![Image](https://github.com/user-attachments/assets/112b2236-3c94-4bb1-a1cd-0b2aa0de157b)
+![Image](https://github.com/user-attachments/assets/d8547f14-b518-4189-a0ce-e70cff0514d5)
 
 ![Image](https://github.com/user-attachments/assets/1efd8c1c-7241-49ef-afad-5f02914d916d)
 
