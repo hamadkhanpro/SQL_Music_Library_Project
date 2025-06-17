@@ -35,7 +35,7 @@ Your Sincerely: We would happy to discuss this proposal further and answer any q
 
 ( Hamad Khan ) hamadkhan2553@gmail.com
 
-![Image](https://github.com/user-attachments/assets/d8547f14-b518-4189-a0ce-e70cff0514d5)
+![Image](https://github.com/user-attachments/assets/9bf7a43a-61e3-40b2-b59b-28480615badc)
 
 ![Image](https://github.com/user-attachments/assets/1efd8c1c-7241-49ef-afad-5f02914d916d)
 
