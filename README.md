@@ -1,6 +1,6 @@
 # SQL Music Library Project
 # WinRar / ZIP File Password: hamadkhan
-SQL Music Library Project (When i was studying bscs (bachelor of science in computer science) and was in my 6th semester, there was a 6th semester project that i completed  and thsi was the subject of database systems and i used my sql music library database and sql server management studio software in that project).
+SQL Music Library Project (When i was studying bscs bachelor of science in computer science) and was in my 6th semester, there was a 6th semester project that i completed  and thsi was the subject of database systems and i used my sql music library database and sql server management studio software in that project.
 
 SQL Music Library Project Objective:
 
